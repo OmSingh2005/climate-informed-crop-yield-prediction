@@ -18,7 +18,6 @@ Time span: 2001–2023
 
 Features include temperature, precipitation, radiation, humidity, and lagged yield
 
-(No need to mention “103 countries” in README unless you want — CV will handle that)
 
 🧠 Models
 
